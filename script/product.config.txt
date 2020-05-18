@@ -1,0 +1,3 @@
+product	headerO	headerE	footer
+诺禾心康	\fancyhead[LO]{\includegraphics[height=1cm]{cardiologo.png}}	\fancyhead[LE]{\includegraphics[height=1cm]{cardiologo.png}}	\fancyfoot[CO,CE]{\color{MyFontGray} \fontsize{8}{9.6}\selectfont{北京诺禾心康基因科技有限公司 \ \ \ \ \ \ \ \ 地址：北京市海淀区西三环北路甲二号院国防科技园1号楼10层1012室 \ \ \ \ \ \ \ \  咨询电话：4000-801-808}}
+糖友	\fancyhead[LO]{\includegraphics[height=1.1cm]{tangyou_logo.png} \ \ \includegraphics[height=1cm]{cardiologo.png}}	\fancyhead[LE]{\includegraphics[height=1.1cm]{tangyou_logo.png} \ \ \includegraphics[height=1cm]{cardiologo.png}}	\fancyfoot[RO,RE]{\color{MyFontGray} \fontsize{8}{9.6}\selectfont{采样电话：010-84978471 \ \ \ \ 技术支持电话：4000-801-808}}
